@@ -1,16 +1,25 @@
-## Hi there 👋
+<h1 align="center">Hello there, I'm Gerard Terrón-Marín</h1>
+<h3 align="center">PhD student</h3>
 
-<!--
-**Gterronmarin/gterronmarin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- ​🤓 I’m a PhD student at **University of Barcelona** 🦎
 
-Here are some ideas to get you started:
+- ⛏️​💻​🦴 I'm specialising in **Computational Archaeology**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- My main interests are:
+
+  **​ 🦬​🦣 Palaeoenvironmental and Palaeoecological Modeling**
+
+  **🐎​🐆​ Herbivore-Carnivore Interactions**
+
+  **🗺️​ Species Distribution Models**
+
+  **​⏳ Chronological Modeling**
+
+- 📄​ Last paper:
+
+**A GIS-Based Approach to Modeling Carnivore Activity in the Pleistocene Site of Cova del Rinoceront (Iberian Peninsula)**
+
+DOI:[https://doi.org/10.1002/oa.70135](https://doi.org/10.1002/oa.70135)
+
+- 📫🤝 You can text me! **gerard.terron@ub.edu**
+
