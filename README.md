@@ -7,7 +7,7 @@
 
 - My main interests are:
 
-  **​ 🦬​🦣 Palaeoenvironmental and Palaeoecological Modeling**
+  **​ 🦬​🦣 Palaeoenvironmental and Palaeoecological Modelling**
 
   **🐎​🐆​ Herbivore-Carnivore Interactions**
 
