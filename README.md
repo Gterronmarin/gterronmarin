@@ -13,7 +13,7 @@
 
   **🗺️​ Species Distribution Models**
 
-  **​⏳ Chronological Modeling**
+  **​⏳ Chronological Modelling**
 
 - 📄​ Last paper:
 
